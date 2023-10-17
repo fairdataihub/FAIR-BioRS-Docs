@@ -23,7 +23,8 @@ html {
   --ifm-menu-color: #6b7280;
   --ifm-toc-link-color: #94a3b8;
   --ifm-menu-color-background-active: #ffe1ee;
-  --ifm-code-background: #f0fdfa;
+  --ifm-code-background: #fff0f7;
+  --ifm-code-border: #fff0f7;
 
   --plum-color: #ba0d49;
 

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-title: Deleting your Pennsieve account config
+title: File 8
 image: https://og.fairdataihub.org/api/ogimage?app=soda-for-sparc&title=Deleting%20Pennsieve%20config%20files&description=
 ---
 
