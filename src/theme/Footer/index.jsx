@@ -163,11 +163,11 @@ export default function FooterWrapper() {
                       <Link href="/docs/intro">What is FAIR BioRS?</Link>
                     </div>
                   </li>
-                  <li className="pb-2 text-base ">
+                  {/* <li className="pb-2 text-base ">
                     <div className="h-max w-max scale-100  transition-all hover:scale-105">
                       <Link href="/versions">Versions</Link>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
               <div className="flex flex-col">
