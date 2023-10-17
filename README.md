@@ -1,27 +1,27 @@
 <div align="center">
 
   <img src="static/img/fairbio-rs.png" alt="logo" width="200" height="auto" />
-  <h1>SODA for SPARC Documentation</h1>
+  <h1>FAIR BioRS Documentation</h1>
   
   <p>
     A comprehensive documentation of the FAIR BioRS Principles!
   </p>
 
 <p>
-  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="contributors" />
+  <a href="https://github.com/fairdataihub/FAIR-BioRS-Docs/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/fairdataihub/FAIR-BioRS-Docs.svg?style=flat-square" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/fairdataihub/SODA-for-SPARC-Docs?style=flat-square" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/fairdataihub/FAIR-BioRS-Docs?style=flat-square" alt="last update" />
   </a>
-  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/stargazers">
+  <a href="https://github.com/fairdataihub/FAIR-BioRS-Docs/stargazers">
     <img src="https://img.shields.io/github/stars/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="stars" />
   </a>
-  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/">
-    <img src="https://img.shields.io/github/issues/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="open issues" />
+  <a href="https://github.com/fairdataihub/FAIR-BioRS-Docs/issues/">
+    <img src="https://img.shields.io/github/issues/fairdataihub/FAIR-BioRS-Docs.svg?style=flat-square" alt="open issues" />
   </a>
-  <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/fairdataihub/SODA-for-SPARC-Docs.svg?style=flat-square" alt="license" />
+  <a href="https://github.com/fairdataihub/FAIR-BioRS-Docs/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/fairdataihub/FAIR-BioRS-Docs.svg?style=flat-square" alt="license" />
   </a>
   <a href="https://doi.org/10.5281/zenodo.6407300">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6407300.svg" alt="doi" />
@@ -94,9 +94,9 @@
 
 | Color           | Hex                                                              |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color   | ![#13716D](https://via.placeholder.com/10/13716D?text=+) #13716D |
+| Primary Color   | ![#CB128D](https://via.placeholder.com/10/13716D?text=+) #13716D |
 | Secondary Color | ![#BA0D49](https://via.placeholder.com/10/BA0D49?text=+) #BA0D49 |
-| Accent Color    | ![#6B7280](https://via.placeholder.com/10/6B7280?text=+) #6B7280 |
+| Accent Color    | ![#ffe1ee](https://via.placeholder.com/10/6B7280?text=+) #6B7280 |
 | Text Color      | ![#1C1E21](https://via.placeholder.com/10/1C1E21?text=+) #1C1E21 |
 
 ### :key: Environment Variables
