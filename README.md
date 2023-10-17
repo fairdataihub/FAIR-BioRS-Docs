@@ -4,7 +4,7 @@
   <h1>SODA for SPARC Documentation</h1>
   
   <p>
-    A comprehensive documentation of the SODA for SPARC project!
+    A comprehensive documentation of the FAIR BioRS Principles!
   </p>
 
 <p>
@@ -38,13 +38,13 @@
 </p>
    
 <h4>
-    <a href="https://docs.sodaforsparc.io/docs/intro">What is SODA for SPARC?</a>
+    <a href="https://docs.sodaforsparc.io/docs/intro">What is FAIR BioRS?</a>
   <span> · </span>
     <a href="https://docs.sodaforsparc.io/">Documentation</a>
   <span> · </span>
     <a href="https://docs.sodaforsparc.io/docs/developer-documentation/changelog">Changelog</a>
   <span> · </span>
-    <a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/issues/">Report Bug</a>
+    <a href="https://github.com/fairdataihub/FAIR-BioRS-Docs/issues/">Report Bug</a>
   <span> · </span>
     <a href="https://fairdataihub.org/contact-us">Request Feature</a>
   </h4>
@@ -123,13 +123,13 @@ If your Node.js version is < 14 you can download the latest Node.js version from
 Clone the project
 
 ```bash
-git clone https://github.com/fairdataihub/SODA-for-SPARC-Docs.git
+git clone https://github.com/fairdataihub/FAIR-BioRS-Docs.git
 ```
 
 Go to the project directory
 
 ```bash
-cd SODA-for-SPARC-Docs
+cd FAIR-BioRS-Docs
 ```
 
 Install dependencies
@@ -148,11 +148,11 @@ yarn start
 
 You can use the version script to create a new documentation version based on the latest content in the `docs` directory. That specific set of documentation will then be preserved and accessible even as the documentation in the `docs` directory changes moving forward.
 
-Ideally, you should create a new branch and update the relevant pages. Then send a PR with [@megasanjay](https://github.com/megasanjay) or [@aaronm-2112](https://github.com/aaronm-2112) on the review page.
+Ideally, you should create a new branch and update the relevant pages. Then send a PR with [@megasanjay](https://github.com/megasanjay) or [@slugb0t](https://github.com/slugb0t) on the review page.
 
 Only do these steps after all changes to the documentation for the specific version have been completed:
 
-1. Update the docs changelog to be on parity with the changelog in [@SODA-for-SPARC](https://github.com/fairdataihub/SODA-for-SPARC/blob/main/CHANGELOG.md)
+1. Update the docs changelog to be on parity with the changelog in [@FAIR-BioRS](https://github.com/fairdataihub/FAIR-BioRS-Docs/blob/main/CHANGELOG.md)
 2. Make sure the current docs version (the `docs` directory) is ready to be frozen.
 3. Update the `version` key in package.json for this repository.
 
@@ -177,17 +177,17 @@ You will not need to do anything to the hosted site. Continuous Delivery has bee
 
 ## :wave: Contributing
 
-<a href="https://github.com/fairdataihub/SODA-for-SPARC-Docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=fairdataihub/SODA-for-SPARC-Docs" />
+<a href="https://github.com/fairdataihub/FAIR-BioRS-Docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=fairdataihub/FAIR-BioRS-Docs" />
 </a>
 
 Contributions are always welcome!
 
-See [`contributing.md`](https://github.com/fairdataihub/SODA-for-SPARC-Docs/blob/main/CONTRIBUTING.md) for ways to get started.
+See [`contributing.md`](https://github.com/fairdataihub/FAIR-BioRS-Docs/blob/main/CONTRIBUTING.md) for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/fairdataihub/SODA-for-SPARC-Docs/blob/master/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/fairdataihub/FAIR-BioRS-Docs/blob/master/CODE_OF_CONDUCT.md)
 
 ## :grey_question: FAQ
 
@@ -197,15 +197,13 @@ Please read the [Code of Conduct](https://github.com/fairdataihub/SODA-for-SPARC
 
 ## :warning: License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/fairdataihub/SODA-for-SPARC-Docs/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/fairdataihub/FAIR-BioRS-Docs/blob/main/LICENSE) for more information.
 
 ## :handshake: Contact
 
 Contact us on Twitter: [@fairdataihub](https://twitter.com/fairdataihub)
 
 Send us an E-mail: info@fairdataihub.org
-
-Project Link: [SODA-for-SPARC](https://github.com/fairdataihub/SODA-for-SPARC)
 
 ## :gem: Acknowledgements
 
