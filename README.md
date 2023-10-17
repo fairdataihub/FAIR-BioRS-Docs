@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="static/img/logo.svg" alt="logo" width="200" height="auto" />
+  <img src="static/img/fairbio-rs.png" alt="logo" width="200" height="auto" />
   <h1>SODA for SPARC Documentation</h1>
   
   <p>
